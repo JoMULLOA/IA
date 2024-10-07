@@ -1,0 +1,45 @@
+
+[
+    {
+        "Dept" : 2,
+        "Type" : 2,
+        "Size" : 126534,
+        "Month" : 12
+    },
+    {
+        "Dept" : 6,
+        "Type" : 3,
+        "Size" : 198534,
+        "Month" : 3
+    },
+    {
+        "Dept" : 4,
+        "Type" : 1,
+        "Size" : 12434,
+        "Month" : 5
+    },
+    {
+        "Dept" : 1,
+        "Type" : 2,
+        "Size" : 1234,
+        "Month" : 7
+    },
+    {
+        "Dept" : 3,
+        "Type" : 1,
+        "Size" : 127634,
+        "Month" : 9
+    },
+    {
+        "Dept" : 5,
+        "Type" : 3,
+        "Size" : 123004,
+        "Month" : 11
+    },
+    {
+        "Dept" : 7,
+        "Type" : 2,
+        "Size" : 16570,
+        "Month" : 1
+    }
+]

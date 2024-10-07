@@ -1,0 +1,52 @@
+
+[
+    {
+        "Dept" : 2,
+        "Type" : 2,
+        "Size" : 126534,
+        "Event_Type" : 2,
+        "Month" : 12
+    },
+    {
+        "Dept" : 6,
+        "Type" : 3,
+        "Size" : 198534,
+        "Event_Type" : 1,
+        "Month" : 3
+    },
+    {
+        "Dept" : 4,
+        "Type" : 1,
+        "Size" : 12434,
+        "Event_Type" : 3,
+        "Month" : 5
+    },
+    {
+        "Dept" : 1,
+        "Type" : 2,
+        "Size" : 1234,
+        "Event_Type" : 0,
+        "Month" : 7
+    },
+    {
+        "Dept" : 3,
+        "Type" : 1,
+        "Size" : 127634,
+        "Event_Type" : 2,
+        "Month" : 9
+    },
+    {
+        "Dept" : 5,
+        "Type" : 3,
+        "Size" : 123004,
+        "Event_Type" : 0,
+        "Month" : 11
+    },
+    {
+        "Dept" : 7,
+        "Type" : 2,
+        "Size" : 16570,
+        "Event_Type" : 4,
+        "Month" : 1
+    }
+]
