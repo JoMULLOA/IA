@@ -1,3 +1,1 @@
-> Subida de archivos .JSON para evaluación 2 de Inteligencia Artificial
-
-## Notebook de modelo más las 2 entradas.
+### Notebook de modelo más las 2 entradas en archivo .JSON para evaluación n°2 de IA.
